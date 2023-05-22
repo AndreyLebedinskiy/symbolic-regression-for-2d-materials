@@ -1,2 +1,2 @@
 # symbolic-regression-for-2d-materials
-Using symbolic regression to define energy functions of vacansiens
+Using functions acquired by symbolic regression to generate structures with vacancies for specific formation energy
